@@ -1,0 +1,70 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:svgjs="http://svgjs.dev/svgjs" width="1440" height="560" preserveAspectRatio="none"
+  viewBox="0 0 1440 560">
+  <g clip-path="url(&quot;#SvgjsClipPath1041&quot;)" fill="none">
+    <circle r="27.255" cx="25.52" cy="416.3" fill="url(&quot;#SvgjsLinearGradient1042&quot;)">
+      <animate attributeName="cy" values="416.3; 406.3; 416.3" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle r="17.785" cx="469.19" cy="29.17" fill="url(&quot;#SvgjsLinearGradient1043&quot;)">
+      <animate attributeName="cy" values="29.17; 39.17; 29.17" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle r="22.28" cx="1181.33" cy="330.68" fill="url(&quot;#SvgjsLinearGradient1044&quot;)">
+      <animate attributeName="cy" values="330.68; 320.68; 330.68" dur="5s" repeatCount="indefinite" />
+    </circle>
+    <circle r="22.855" cx="161.04" cy="142.3" fill="url(&quot;#SvgjsLinearGradient1045&quot;)">
+      <animate attributeName="cy" values="142.3; 152.3; 142.3" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle r="24.765" cx="617.07" cy="369.08" fill="url(&quot;#SvgjsLinearGradient1046&quot;)">
+      <animate attributeName="cy" values="369.08; 359.08; 369.08" dur="4s" repeatCount="indefinite" />
+    </circle>
+    <circle r="35.205" cx="457.58" cy="373.66" fill="url(&quot;#SvgjsLinearGradient1047&quot;)">
+      <animate attributeName="cy" values="373.66; 363.66; 373.66" dur="6s" repeatCount="indefinite" />
+    </circle>
+    <circle r="15.005" cx="856.15" cy="267.07" fill="#43468b">
+      <animate attributeName="cy" values="267.07; 277.07; 267.07" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle r="50.27" cx="428.1" cy="289.08" fill="url(&quot;#SvgjsLinearGradient1048&quot;)">
+      <animate attributeName="cy" values="289.08; 279.08; 289.08" dur="5s" repeatCount="indefinite" />
+    </circle>
+  </g>
+  <defs>
+    <clipPath id="SvgjsClipPath1041">
+      <rect width="1440" height="560" x="0" y="0"></rect>
+    </clipPath>
+    <linearGradient x1="-28.99" y1="416.3" x2="80.03" y2="416.3" gradientUnits="userSpaceOnUse"
+      id="SvgjsLinearGradient1042">
+      <stop stop-color="#f29b7c" offset="0.1"></stop>
+      <stop stop-color="#7e6286" offset="0.9"></stop>
+    </linearGradient>
+    <linearGradient x1="433.62" y1="29.17" x2="504.76" y2="29.17" gradientUnits="userSpaceOnUse"
+      id="SvgjsLinearGradient1043">
+      <stop stop-color="#ab3c51" offset="0.1"></stop>
+      <stop stop-color="#4f4484" offset="0.9"></stop>
+    </linearGradient>
+    <linearGradient x1="1136.77" y1="330.68" x2="1225.8899999999999" y2="330.68"
+      gradientUnits="userSpaceOnUse" id="SvgjsLinearGradient1044">
+      <stop stop-color="#ab3c51" offset="0.1"></stop>
+      <stop stop-color="#4f4484" offset="0.9"></stop>
+    </linearGradient>
+    <linearGradient x1="115.32999999999998" y1="142.3" x2="206.75" y2="142.3"
+      gradientUnits="userSpaceOnUse" id="SvgjsLinearGradient1045">
+      <stop stop-color="#f29b7c" offset="0.1"></stop>
+      <stop stop-color="#7e6286" offset="0.9"></stop>
+    </linearGradient>
+    <linearGradient x1="567.5400000000001" y1="369.0799999999999" x2="666.6000000000001"
+      y2="369.0799999999999" gradientUnits="userSpaceOnUse" id="SvgjsLinearGradient1046">
+      <stop stop-color="#ab3c51" offset="0.1"></stop>
+      <stop stop-color="#4f4484" offset="0.9"></stop>
+    </linearGradient>
+    <linearGradient x1="387.16999999999996" y1="373.65999999999997" x2="527.99"
+      y2="373.65999999999997" gradientUnits="userSpaceOnUse" id="SvgjsLinearGradient1047">
+      <stop stop-color="#e298de" offset="0.1"></stop>
+      <stop stop-color="#484687" offset="0.9"></stop>
+    </linearGradient>
+    <linearGradient x1="327.56" y1="289.08" x2="528.64" y2="289.08" gradientUnits="userSpaceOnUse"
+      id="SvgjsLinearGradient1048">
+      <stop stop-color="#32325d" offset="0.1"></stop>
+      <stop stop-color="#424488" offset="0.9"></stop>
+    </linearGradient>
+  </defs>
+</svg>
