@@ -1,0 +1,11 @@
+@if (h1) {
+  <h1>Games</h1>
+}
+
+<section class="game-list">
+  @for (game of games; track $index) {
+    <app-game-card [game]="game"></app-game-card>
+  }
+
+  <app-game-card-add />
+</section>
